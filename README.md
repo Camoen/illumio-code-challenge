@@ -57,6 +57,5 @@ O(log n) time, where n is the total number of IP ranges.  For instance, given th
 #### Team Interest
 I’m interested in all three teams, but I would rank the options as follows:
 1.	Platform Team
-2.	Data Team
-3.	Policy Team 
-
+2.	Policy Team 
+3.	Data Team
