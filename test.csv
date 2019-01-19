@@ -15,4 +15,3 @@ outbound,udp,3000-4000,0.0.1.1
 outbound,udp,37,133.133.247.2
 outbound,udp,65535,0.0.1.1
 outbound,udp,3080,0.3.3.3
-outbound,udp,37,133.133.247.2
